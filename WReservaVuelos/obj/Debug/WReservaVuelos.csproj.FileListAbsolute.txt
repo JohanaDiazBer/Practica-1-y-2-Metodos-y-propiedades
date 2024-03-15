@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WReservaVuelos\bin\Debug\WReservaVuelos.exe.config
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WReservaVuelos\bin\Debug\WReservaVuelos.exe
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WReservaVuelos\bin\Debug\WReservaVuelos.pdb
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WReservaVuelos\obj\Debug\WReservaVuelos.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WReservaVuelos\obj\Debug\WReservaVuelos.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WReservaVuelos\obj\Debug\WReservaVuelos.frmReservaVuelos.resources
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WReservaVuelos\obj\Debug\WReservaVuelos.Properties.Resources.resources
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WReservaVuelos\obj\Debug\WReservaVuelos.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WReservaVuelos\obj\Debug\WReservaVuelos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WReservaVuelos\obj\Debug\WReservaVuelos.exe
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WReservaVuelos\obj\Debug\WReservaVuelos.pdb

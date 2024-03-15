@@ -1,0 +1,17 @@
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\Wbiblioteca\bin\Debug\net6.0-windows\Wbiblioteca.exe
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\Wbiblioteca\bin\Debug\net6.0-windows\Wbiblioteca.deps.json
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\Wbiblioteca\bin\Debug\net6.0-windows\Wbiblioteca.runtimeconfig.json
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\Wbiblioteca\bin\Debug\net6.0-windows\Wbiblioteca.dll
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\Wbiblioteca\bin\Debug\net6.0-windows\ref\Wbiblioteca.dll
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\Wbiblioteca\bin\Debug\net6.0-windows\Wbiblioteca.pdb
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\Wbiblioteca\obj\Debug\net6.0-windows\Wbiblioteca.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\Wbiblioteca\obj\Debug\net6.0-windows\Wbiblioteca.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\Wbiblioteca\obj\Debug\net6.0-windows\Wbiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\Wbiblioteca\obj\Debug\net6.0-windows\Wbiblioteca.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\Wbiblioteca\obj\Debug\net6.0-windows\Wbiblioteca.AssemblyInfo.cs
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\Wbiblioteca\obj\Debug\net6.0-windows\Wbiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\Wbiblioteca\obj\Debug\net6.0-windows\Wbiblioteca.dll
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\Wbiblioteca\obj\Debug\net6.0-windows\ref\Wbiblioteca.dll
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\Wbiblioteca\obj\Debug\net6.0-windows\Wbiblioteca.pdb
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\Wbiblioteca\obj\Debug\net6.0-windows\Wbiblioteca.genruntimeconfig.cache
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\Wbiblioteca\obj\Debug\net6.0-windows\Wbiblioteca.frmBiblioteca.resources
