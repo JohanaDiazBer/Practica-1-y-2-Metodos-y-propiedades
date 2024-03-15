@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WNotasEscolares\bin\Debug\WNotasEscolares.exe.config
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WNotasEscolares\bin\Debug\WNotasEscolares.exe
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WNotasEscolares\bin\Debug\WNotasEscolares.pdb
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WNotasEscolares\obj\Debug\WNotasEscolares.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WNotasEscolares\obj\Debug\WNotasEscolares.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WNotasEscolares\obj\Debug\WNotasEscolares.frmNotasEscolares.resources
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WNotasEscolares\obj\Debug\WNotasEscolares.Properties.Resources.resources
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WNotasEscolares\obj\Debug\WNotasEscolares.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WNotasEscolares\obj\Debug\WNotasEscolares.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WNotasEscolares\obj\Debug\WNotasEscolares.exe
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WNotasEscolares\obj\Debug\WNotasEscolares.pdb
