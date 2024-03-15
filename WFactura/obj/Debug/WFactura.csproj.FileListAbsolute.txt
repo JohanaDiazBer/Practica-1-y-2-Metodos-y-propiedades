@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WFactura\obj\Debug\WFactura.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WFactura\obj\Debug\WFactura.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WFactura\obj\Debug\WFactura.frmGestionFacturas.resources
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WFactura\obj\Debug\WFactura.Properties.Resources.resources
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WFactura\obj\Debug\WFactura.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WFactura\obj\Debug\WFactura.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WFactura\bin\Debug\WFactura.exe.config
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WFactura\bin\Debug\WFactura.exe
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WFactura\bin\Debug\WFactura.pdb
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WFactura\obj\Debug\WFactura.exe
+C:\Users\USER\Documents\Trabajos Johana\Desarrollo de Software\Herramientas II\Practica\WFactura\obj\Debug\WFactura.pdb
